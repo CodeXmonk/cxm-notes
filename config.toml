@@ -1,5 +1,0 @@
-baseurl      = "https://codexmonk.github.io/cxm-notes/"
-title        = "4bes.nl-theHugoVersion"
-languageCode = "en-us"
-theme = "ananke"
-publishDir = "docs"
